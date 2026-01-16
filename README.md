@@ -44,29 +44,29 @@ chaotic-systems-sensitivity/
 - Implemented RK4 solver and validated with a simple pendulum.
 - Checked energy conservation and Euler method failure.
 - **Deliverable:**  
-![Phase 2](outputs/phase2_rk4_validation.png)
+![Phase 2](outputs/phase2_rk4_test.png)
 
 ### Phase 3 — Baseline Double Pendulum
 - Ran one chaotic trajectory to visualize irregular motion.
 - **Deliverable:**  
-![Phase 3](outputs/phase3_single_chaotic_trajectory.png)
+![Phase 3](outputs/phase3_double_pendulum_phase_space.png)
 
 ### Phase 4 — Sensitivity Experiment
 - Simulated two trajectories with Δθ = 0.001.  
 - Observed divergence over time.
 - **Deliverable:**  
-![Phase 4](outputs/phase4_divergence_time_series.png)
+![Phase 4](outputs/phase4_output_chaos_divergence.png)
 
 ### Phase 5 — Quantifying Chaos
 - Calculated separation δ(t) between trajectories.  
 - Plotted ln(δ(t)) vs time to show exponential growth.
 - **Deliverable:**  
-![Phase 5](outputs/phase5_phase_space_separation.png)
+![Phase 5](outputs/phase5_double_pendulum_swing.png)
 
 ### Phase 6 — Limits of Prediction
 - Generated animated GIF showing both pendulums initially moving together, then diverging.  
 - **Deliverable:**  
-![Phase 6](outputs/phase6_double_pendulum_divergence.gif)
+![Phase 6](outputs/phase6_double_pendulum.gif)
 
 ---
 
