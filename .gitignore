@@ -1,0 +1,25 @@
+# Byte-compiled / Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output folders (optional, if you don't want to push heavy images/GIFs)
+outputs/
+supplementary/
+
+# IDE settings (optional)
+.vscode/
+.idea/
