@@ -16,10 +16,9 @@ env/
 .DS_Store
 Thumbs.db
 
-# Output folders (optional, if you don't want to push heavy images/GIFs)
-outputs/
-supplementary/
-
-# IDE settings (optional)
+# IDE settings
 .vscode/
 .idea/
+
+# Do NOT ignore outputs or supplementary folders
+# These contain your project results and GIFs
